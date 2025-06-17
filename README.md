@@ -16,5 +16,5 @@ GIT BASH
 Autor
 David Cedeno
 
-GitHub Pages
-https://cnote86.github.io/web_project_homeland/
+
+
