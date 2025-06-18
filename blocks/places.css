@@ -7,13 +7,16 @@
 .places__grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
   gap: 16px;
   justify-content: center;
   max-width: 1184px;
+  max-height: 442px ;
   margin: 0 auto;
 }
-.places__image {
+.places__grid-image {
   width: 100%;
+  height: 100%;
   aspect-ratio: 1.33;
   object-fit: cover;
   display: block;
@@ -92,13 +95,17 @@
   box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.25);
 }
 
+
 @media screen and (max-width: 1024px) {
   .places {
     padding: 90px 24px 0;
   }
   .places__grid {
     grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, 1fr);
     gap: 14px;
+    max-width: 720px;
+    max-height: 1104px;
   }
 }
 @media screen and (max-width: 540px) {
@@ -115,8 +122,10 @@
   }
   .places__grid {
     grid-template-columns: 1fr;
+    grid-template-rows: repeat(8, ifr);
     gap: 12px;
     max-width: 288px;
+    max-height: 1812px ;
   }
   .places__image {
     aspect-ratio: 1.33;

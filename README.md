@@ -14,7 +14,5 @@ FIGMA
 GIT BASH
 
 Autor
-Mario Campos
+David Cedeno
 
-GitHub Pages
-https://cnote86.github.io/web_project_homeland/
