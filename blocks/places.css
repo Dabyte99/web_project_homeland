@@ -122,7 +122,7 @@
   }
   .places__grid {
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(8, ifr);
+    grid-template-rows: repeat(8, 1fr);
     gap: 12px;
     max-width: 288px;
     max-height: 1812px ;
