@@ -1,20 +1,22 @@
 # Tripleten web_project_homeland
-Proyecto 5: Galeria de arte Triple Ten,
+https://github.com/Dabyte99/web_project_homeland.git
+Descripción del proyecto:
 
-La Galería de TripleTen es el quinto proyecto que esta dirigido a conocer más a nuestros colegas, tomando como punto principal donde ellos nacieron y se crecieron y plasmando las diferentes ciudades en fotografías como obras de arte.
+Este proyecto es una galería de arte en línea que muestra historias y fotografías de personas de diferentes partes del mundo que forman parte de la comunidad TripleTen. El objetivo es celebrar la diversidad y la riqueza cultural de nuestros colegas, destacando sus lugares de origen y compartiendo sus historias personales.
 
+La galería presenta una sección principal con una imagen destacada y una breve descripción, seguida de una sección de historias donde los miembros de TripleTen pueden compartir sus experiencias y obras de arte visual relacionadas con sus ciudades natales.
 
-Características del proyecto
-HTML5 semántico
-Flexbox
-Position
-Metodología BEM
+Tecnologías usadas:
+
+HTML5
 CSS
-FIGMA
-GIT BASH
+Media Queries (para diseño responsivo)
+Planes de mejora:
 
-Autor
+
+
+Autor:
+
 David Cedeno
-
 
 
