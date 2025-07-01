@@ -1,4 +1,5 @@
 # Tripleten web_project_homeland
+
 https://github.com/Dabyte99/web_project_homeland.git
 Descripción del proyecto:
 
@@ -11,7 +12,7 @@ Tecnologías usadas:
 HTML5
 CSS
 Media Queries (para diseño responsivo)
-Planes de mejora:
+
 
 
 
