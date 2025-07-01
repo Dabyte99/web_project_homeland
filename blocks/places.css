@@ -30,7 +30,7 @@
   grid-template-areas:
     "title subtitle"
     "image description"
-    "button description";
+    "button desciption";
 }
 .places__title {
   max-width: 460px;
@@ -107,6 +107,7 @@
     max-width: 720px;
     max-height: 1104px;
   }
+
 }
 @media screen and (max-width: 540px) {
   .places {
@@ -115,6 +116,10 @@
   .places__grid {
     gap: 12px;
   }
+  .photo__button {
+    grid-column: 1 / 4;
+    grid-row: 4;
+    font-size: 14px;}
 }
 @media screen and (max-width: 320px) {
   .places {
@@ -130,6 +135,10 @@
   .places__image {
     aspect-ratio: 1.33;
   }
+   .photo__button {
+    grid-column: 1 / 4;
+    grid-row: 4;
+    font-size: 14px;}
 }
 
 @media screen and (max-width: 786px) {
@@ -159,9 +168,11 @@
     max-width: 288px;
     font-size: 32px;
   }
-  .places__button {
+  .photo__button {
+   grid-column: 1 / 4;
+    grid-row: 4;
     font-size: 14px;
-  }
+    }
 }
 
 @media screen and (min-width: 786px) {
